@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_tejas_03" target="blank"><img src="https://img.shields.io/twitter/follow/_tejas_03?logo=twitter&style=for-the-badge" alt="_tejas_03" /></a> </p>
 
-- 🔭 I’m currently working on [budgetBuddy](https://budget-buddy-frontend-phi.vercel.app/)
+- 🔭 I’m currently working on Open Source
 
 - 🌱 I’m currently learning **gitlab,Hugo, ontinuous Integration/Continuous Deployment (CI/CD) Pipelines**
 
