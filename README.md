@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **gitlab,Hugo, ontinuous Integration/Continuous Deployment (CI/CD) Pipelines**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-d5x256q5q-tejas-projects-9e04ed37.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-ten-flax-10.vercel.app/)
 
 - 📫 How to reach me **tejas03sonawane@gmail.com**
 
