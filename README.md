@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Open Source
 
-- 🌱 I’m currently learning **gitlab,Hugo, ontinuous Integration/Continuous Deployment (CI/CD) Pipelines**
+- 🌱 I’m currently learning **AI agent developement**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-ten-flax-10.vercel.app/)
 
