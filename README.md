@@ -6,11 +6,12 @@
 
 - 🔭 I’m currently working on Open Source
 
-- 🌱 I’m currently learning **AI agent developement**
+- 🌱 I’m currently Developing [MatchMyResume](https://github.com/ts-31/MatchMyResume)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-ten-flax-10.vercel.app/)
 
-- 📫 How to reach me **tejas03sonawane@gmail.com**
+- 📫 How to reach me **tejas2025s@gmail.com
+**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
