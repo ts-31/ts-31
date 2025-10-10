@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Open Source
 
-- 🌱 I’m currently Developing [MatchMyResume](https://github.com/ts-31/MatchMyResume)
+- 🌱 I’m currently Developing [HireHub](https://github.com/ts-31/hire-hub)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-ten-flax-10.vercel.app/)
 
